@@ -30,3 +30,11 @@ url = "https://github.com/hsandid"
   languageCode = "en-gb"
   contentDir = "content"
   weight = 1
+
+# Green theme
+[params.style]
+  darkestColor = "#315659"
+  darkColor = "#253031"
+  lightColor = "#96a879"
+  lightestColor = "#fff"
+  primaryColor = "#dad865"
